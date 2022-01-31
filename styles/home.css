@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 50%;
+}
+label {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.stats-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px;
+}
